@@ -18,7 +18,7 @@ During the internship, we built several VEX robotics projects.
 
 
 
-!\[Lineup of VEX robotics projects](media/vex-project-lineup.jpg)
+!\[Lineup of VEX robotics projects](https://github.com/CurrentRelish7/spring-week-robotics-internship/blob/main/vex-project-lineup.jpg?raw=true)
 
 
 
@@ -48,7 +48,7 @@ On the final day, we tested the robots in a bot battle challenge.
 
 
 
-\- \[Watch the final bot battle](media/vex-bot-battle.mp4)
+\- \[Watch the final bot battle]([media/vex-bot-battle.mp4](https://drive.google.com/file/d/11hLVuou99eU30JXovK9TkegjIDIlDZzp/view?usp=drive_link))
 
 
 
